@@ -2,7 +2,7 @@
 
 This repositery gathers the python code and notebooks developed for the automatic detection of swimmers' heads.
 
-# .py required by Pytorch's FasterRCNN implementation 
+## .py required by Pytorch's FasterRCNN implementation 
 
 You do not have to look at them :
 - coco_eval.py
