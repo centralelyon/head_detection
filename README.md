@@ -2,6 +2,11 @@
 
 This repositery gathers the python code and notebooks developed for the automatic detection of swimmers' heads.
 
+## Notebooks
+
+- ****** to train Faster-RCNN on a custom dataset to detect swimmers head
+- ****** to load a trained model and use it on images and videos
+
 ## .py required by Pytorch's FasterRCNN implementation 
 
 You do not have to look at them :
