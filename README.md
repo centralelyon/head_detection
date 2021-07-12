@@ -9,7 +9,6 @@ This repositery gathers the python code and notebooks developed for the automati
 
 ## .py required by Pytorch's FasterRCNN implementation 
 
-You do not have to look at them :
 - coco_eval.py
 - coco_utils.py
 - engine.py
