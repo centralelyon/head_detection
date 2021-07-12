@@ -4,7 +4,7 @@ This repositery gathers the python code and notebooks developed for the automati
 
 ## Notebooks
 
-- ****** to train Faster-RCNN on a custom dataset to detect swimmers head
+- training_notebook.ipynb to train Faster-RCNN on a custom dataset to detect swimmers head
 - ****** to load a trained model and use it on images and videos
 
 ## .py required by Pytorch's FasterRCNN implementation 
@@ -18,3 +18,4 @@ This repositery gathers the python code and notebooks developed for the automati
 - transforms.py
 - utils.py
 
+## Links toward the dataset (images)
