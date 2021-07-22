@@ -27,3 +27,7 @@ The dataset is in PASCAL VOC 1.1 format in a .csv file. Each line corresponds to
 - Model : https://drive.google.com/file/d/1brH4g-vgXZAH-ajark3xgX2iR9xmhXds/view?usp=sharing
 
 The model has been registered with Pytorch 1.8.1, it is advised to use the same version to use it.
+
+## Other files
+
+- requirements.txt is available
